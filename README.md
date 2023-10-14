@@ -30,9 +30,11 @@ This is a Github repository created to submit the first Homework of the **Algori
      - [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
      - [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)
 
-3. `stamps/submissions.pdf`: A folder (`stamps`) containing a PDF (`submissions.pdf`) with all the printouts of the Hackerrank submissions for every exercise of Problems 1 and 2.
-4. `.gitignore`: A predetermined `.gitignore` file that tells Git which files or folders to ignore in a Python project.
-5. `LICENSE`: A file containing an MIT permissive license.
+3. `stamps/submissions.pdf`: A PDF file containing all the printouts of the Hackerrank submissions for every exercise of Problems 1 and 2.
+
+4. `stamps/problem3_grades.pdf`: A PDF file containing the grades for all the *AWS Academy Introduction to Cloud* course modules solved for Problem 3.
+5. `.gitignore`: A predetermined `.gitignore` file that tells Git which files or folders to ignore in a Python project.
+6. `LICENSE`: A file containing an MIT permissive license.
 
 ---
 
